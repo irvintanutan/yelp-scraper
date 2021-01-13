@@ -1,10 +1,10 @@
-package com.example.irvin;
+package com.example.yelp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IrvinApplicationTests {
+class YelpApplicationTests {
 
 	@Test
 	void contextLoads() {

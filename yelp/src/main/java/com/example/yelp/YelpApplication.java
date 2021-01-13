@@ -1,13 +1,13 @@
-package com.example.irvin;
+package com.example.yelp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IrvinApplication {
+public class YelpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IrvinApplication.class, args);
+		SpringApplication.run(YelpApplication.class, args);
 	}
 
 }
